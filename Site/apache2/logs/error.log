@@ -1,0 +1,8 @@
+[Tue Jul 24 13:40:13.859971 2018] [mpm_winnt:notice] [pid 1072:tid 364] AH00455: Apache/2.4.6 (Win32) PHP/5.4.17 configured -- resuming normal operations
+[Tue Jul 24 13:40:13.875571 2018] [mpm_winnt:notice] [pid 1072:tid 364] AH00456: Apache Lounge VC10 Server built: Jul 16 2013 11:15:41
+[Tue Jul 24 13:40:13.875571 2018] [core:notice] [pid 1072:tid 364] AH00094: Command line: 'H:\\Site/apache2/bin/httpd_usbwv8.exe -d H:/Site/apache2'
+[Tue Jul 24 13:40:13.891171 2018] [mpm_winnt:notice] [pid 1072:tid 364] AH00418: Parent: Created child process 6032
+[Tue Jul 24 13:40:14.621579 2018] [mpm_winnt:notice] [pid 6032:tid 388] AH00354: Child: Starting 64 worker threads.
+[Tue Jul 24 13:40:22.584452 2018] [:error] [pid 6032:tid 920] [client ::1:57485] PHP Notice:  Undefined index: usuario in H:\\Site\\root\\index.php on line 8
+[Tue Jul 24 13:40:22.693652 2018] [:error] [pid 6032:tid 920] [client ::1:57485] PHP Notice:  Undefined index: usuario in H:\\Site\\root\\header.php on line 3
+[Tue Jul 24 13:40:22.693652 2018] [:error] [pid 6032:tid 920] [client ::1:57485] PHP Notice:  Undefined index: usuario in H:\\Site\\root\\header.php on line 6
